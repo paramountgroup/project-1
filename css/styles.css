@@ -1,0 +1,48 @@
+body {
+	font-family: 'Lato', sans-serif;
+    background: url(http://subtlepatterns.com/patterns/white_wall2.png) repeat;
+    font-weight: 300;
+    color: #2b3990;
+ } 
+
+hr {
+    height: 4px;
+    background-color: #bcbbbb;
+    width: 100%;
+}
+
+.logo {
+	max-width: 350px;
+}
+
+.name {
+	color: #2b3990;
+	font-weight: 100;
+	font-size: 60px;
+}
+
+.title {
+	color: #2b3990;
+	font-weight: 400;
+	font-size: 21px;
+}
+
+.fwork {
+	text-indent: 8px;
+	font-size: 20pt;
+	color: #bcbbbb;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #BCBBBB;
+}
+
+.top-buffer { 
+	margin-top:20px; 
+}
