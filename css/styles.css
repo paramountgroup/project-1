@@ -1,9 +1,9 @@
 body {
-	font-family: 'Lato', sans-serif;
+    font-family: 'lato', sans-serif;
     font-weight: 300;
     color: #2b3990;
     background: url(http://www.theparamountgroup.us/images/white_wall.png);
- } 
+} 
 
 hr {
     height: 4px;
@@ -12,13 +12,13 @@ hr {
 }
 
 .logo {
-	max-width: 350px;
+    max-width: 350px;
 }
 
 .name {
-	color: #2b3990;
-	font-weight: 100;
-	font-size: 60px;
+    color: #2b3990;
+    font-weight: 100;
+    font-size: 60px;
 }
 
 .title {
@@ -40,9 +40,15 @@ a {
 
 a:hover {
 	text-decoration: none;
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
-.top-buffer { 
-	margin-top:20px; 
+.top-buffer {
+	margin-top: 20px;
+}
+
+.w3logo {
+	border: 0;
+	width: 88px;
+	height: 31px;
 }
