@@ -1,9 +1,9 @@
 body {
-    font-family: 'lato', sans-serif;
+    font-family: "lato", sans-serif;
     font-weight: 300;
     color: #2b3990;
     background: url(http://www.theparamountgroup.us/images/white_wall.png);
-} 
+}
 
 hr {
     height: 4px;
@@ -22,33 +22,33 @@ hr {
 }
 
 .title {
-	color: #2b3990;
-	font-weight: 400;
-	font-size: 21px;
+    color: #2b3990;
+    font-weight: 400;
+    font-size: 21px;
 }
 
 .fwork {
-	text-indent: 8px;
-	font-size: 20pt;
-	color: #bcbbbb;
+    text-indent: 8px;
+    font-size: 20pt;
+    color: #bcbbbb;
 }
 
 a {
-	text-decoration: none;
-	color: black;
+    text-decoration: none;
+    color: black;
 }
 
 a:hover {
-	text-decoration: none;
-	color: #bcbbbb;
+    text-decoration: none;
+    color: #bcbbbb;
 }
 
 .top-buffer {
-	margin-top: 20px;
+    margin-top: 20px;
 }
 
 .w3logo {
-	border: 0;
-	width: 88px;
-	height: 31px;
+    border: 0;
+    width: 88px;
+    height: 31px;
 }
